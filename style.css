@@ -9,14 +9,14 @@
     width: 100px;
     height: 100px;
     color: black;
-    border: 5px solid;
+    border: 3px solid;
 }
 .boxeven {
     background-color: green;
     width: 100px;
     height: 100px;
     color: black;
-    border: 5px solid;
+    border: 3px solid;
 }
 .flexe1 {
     display: flex;
