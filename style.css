@@ -6,15 +6,15 @@
 }
 .boxodd {
     background-color: yellow;
-    width: 310px;
-    height: 310px;
+    width: 100px;
+    height: 100px;
     color: black;
     border: 5px solid;
 }
 .boxeven {
     background-color: green;
-    width: 310px;
-    height: 310px;
+    width: 100px;
+    height: 100px;
     color: black;
     border: 5px solid;
 }
