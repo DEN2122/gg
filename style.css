@@ -1,0 +1,29 @@
+
+.flexe {
+    display: flex;
+  
+    list-style: none ;
+}
+.boxodd {
+    background-color: yellow;
+    width: 310px;
+    height: 310px;
+    color: black;
+    border: 5px solid;
+}
+.boxeven {
+    background-color: green;
+    width: 310px;
+    height: 310px;
+    color: black;
+    border: 5px solid;
+}
+.flexe1 {
+    display: flex;
+    justify-content: space-between;
+}
+.box {
+   
+    width: 600px ;
+    height: 600px ;
+}
