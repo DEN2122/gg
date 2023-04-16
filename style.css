@@ -10,6 +10,7 @@
     height: 100px;
     color: black;
     border: 3px solid;
+    list-style: none ;
 }
 .boxeven {
     background-color: green;
@@ -17,6 +18,7 @@
     height: 100px;
     color: black;
     border: 3px solid;
+    list-style: none ;
 }
 .flexe1 {
     display: flex;
